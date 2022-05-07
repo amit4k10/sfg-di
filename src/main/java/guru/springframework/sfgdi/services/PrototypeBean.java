@@ -16,6 +16,6 @@ public class PrototypeBean {
     }
 
     public String getMyScope(){
-        return "I'm a Prototype " + this.hashCode();
+        return "I'm a Prototype";
     }
 }

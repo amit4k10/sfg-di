@@ -13,6 +13,6 @@ public class SingletonBean {
     }
 
     public String getMyScope(){
-        return "I'm a Singleton " + this.hashCode();
+        return "I'm a Singleton";
     }
 }
