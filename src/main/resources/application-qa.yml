@@ -1,4 +1,4 @@
 guru:
-    username: YmlQAUserNameYML
-    password: YmlQAPasswordYML
-    jdbcurl: YmlQAUrlYML
+    username: YmlQAUserName
+    password: YmlQAPassword
+    jdbcurl: YmlQAUrl
